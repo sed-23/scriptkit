@@ -1,6 +1,6 @@
 {
   "name": "scriptkit",
-  "displayName": "ScriptKit",
+  "displayName": "Make & Shell",
   "description": "Your launchpad for scripts & configs. Run targets, navigate functions, lint issues — across Makefiles, Shell, PowerShell, Batch, .env and config files.",
   "version": "0.1.1",
   "publisher": "siddy",
